@@ -2,6 +2,8 @@
 
 ## Лекции по python 2019
 
+[Видеолекции](https://www.youtube.com/playlist?list=PLrCZzMib1e9p6lpNv-yt6uvHGyBxQncEh)
+
 ### hometasks:
 1) Введение в python (контест)
 2) К/р numpy
